@@ -1,2 +1,3 @@
 FROM dockersample/static-site
-ENV AUTHOR="Hiroshi Jinb"
+ENV AUTHOR="Hiroshi"
+
